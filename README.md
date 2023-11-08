@@ -23,7 +23,7 @@ Vous pouvez MAINTENANT accéder à votre base de données MongoDB dans votre nav
  http://localhost:8081.
 ```
 
-Si vous préférez une version de bureau, vous pouvez télécharger MongoDB Compass via le url ci dessous. je connais un(e) qui aime ce genre d'intrface, mais je ne citerai pas son nom 😆
+Si vous préférez une version de bureau, vous pouvez télécharger MongoDB Compass via le url ci dessous. Mais je connais un(e) qui aime ce genre d'interface, mais je ne citerai pas son nom 😆
 
 ```{bash}
 https://www.mongodb.com/try/download/compass
