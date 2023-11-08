@@ -17,7 +17,7 @@ Ensuite, exécutez la commande suivante pour installer un conteneur permettant d
 docker run -it --rm --name mongo-express -p 8081:8081 -e ME_CONFIG_MONGODB_SERVER=host.docker.internal -e ME_CONFIG_BASICAUTH_USERNAME=joe -e ME_CONFIG_BASICAUTH_PASSWORD=0003 mongo-express
 ```
 
-Vous pouvez accéder à votre base de données MongoDB dans votre navigateur via l'URL :
+Vous pouvez MAINTENANT accéder à votre base de données MongoDB dans votre navigateur via l'URL :
 
 ```{bash}
  http://localhost:8081.
