@@ -54,7 +54,7 @@ collection.insert_one(data)
 
 ```
 
-Ceci n'est qu'un démarrage rapide avec MongoDB, le reste vous devrez vous documenter en sur Internet.
+Ceci n'est qu'un démarrage rapide avec MongoDB, le reste vous devrez vous documenter sur Internet.
 
 Facile noooon 😉😉
 
